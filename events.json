@@ -1,0 +1,26 @@
+{
+  "events": [
+    {
+      "id": "double_qi_2026_05",
+      "active": true,
+      "title": "Heaven's Generosity",
+      "flavor": "Senior Wei speaks: the heavens are generous today. All cultivators shall receive a boon.",
+      "description": "All Qi gains are doubled for all cultivators.",
+      "endsAt": "2026-05-31T23:59:00Z",
+      "effects": {
+        "qiMult": 2.0
+      }
+    },
+    {
+      "id": "free_bt_2026_05",
+      "active": true,
+      "title": "Heaven's Open Gate",
+      "flavor": "The barriers between realms have thinned. All cultivators may pass through freely.",
+      "description": "All cultivators receive 3 free Breakthrough attempts, guaranteed to succeed with no Qi cost.",
+      "endsAt": "2026-05-31T23:59:00Z",
+      "effects": {
+        "freeBreakthroughs": 3
+      }
+    }
+  ]
+}
