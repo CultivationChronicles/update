@@ -13,7 +13,7 @@
     },
     {
       "id": "free",
-      "active": true,
+      "active": false,
       "title": "Testing shi",
       "flavor": "Orange",
       "description": "All cultivators receive 5 free Breakthrough attempts, guaranteed to succeed with no Qi cost.",
