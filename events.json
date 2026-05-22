@@ -6,7 +6,7 @@
       "title": "Boost Event",
       "flavor": "Free Boost to Everyone",
       "description": "All Qi gains are doubled for all.",
-      "endsAt": "2026-05-25T23:59:00Z",
+      "endsAt": "2026-05-32T23:59:00Z",
       "effects": {
         "qiMult": 2
       }
