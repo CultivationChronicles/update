@@ -1,0 +1,27 @@
+{
+  "name": "Konk",
+  "accountId": "MWl2CRQsaIdz",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 250,
+  "age": 18.008902222222222,
+  "isImmortal": false,
+  "difficulty": "abyssal",
+  "updatedAt": 1779487954829,
+  "gold": {
+    "mantissa": 5,
+    "exponent": 1
+  },
+  "jade": {
+    "mantissa": 1,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 2.5,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 2.011952565,
+    "exponent": 1
+  }
+}
