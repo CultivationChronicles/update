@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": "World_Event",
+      "id": "event",
       "active": true,
       "title": "Boost Event",
       "flavor": "Free Boost to Everyone",
@@ -13,13 +13,13 @@
     },
     {
       "id": "freem",
-      "active": false,
+      "active": true,
       "title": "Testing shi",
       "flavor": "Orange",
-      "description": "All cultivators receive 10 free Breakthrough attempts, guaranteed to succeed with no Qi cost.",
+      "description": "All cultivators receive 3 free Breakthrough attempts, guaranteed to succeed with no Qi cost.",
       "endsAt": "2026-05-31T23:59:00Z",
       "effects": {
-        "freeBreakthroughs": 10
+        "freeBreakthroughs": 3
       }
     }
   ]
