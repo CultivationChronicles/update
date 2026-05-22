@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "event",
-      "active": true,
+      "active": false,
       "title": "Boost Event",
       "flavor": "Free Boost to Everyone",
       "description": "All Qi gains are doubled for all.",
@@ -13,7 +13,7 @@
     },
     {
       "id": "freem",
-      "active": true,
+      "active": false,
       "title": "Testing shi",
       "flavor": "Orange",
       "description": "All cultivators receive 3 free Breakthrough attempts, guaranteed to succeed with no Qi cost.",
