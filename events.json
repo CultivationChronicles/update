@@ -1,14 +1,14 @@
 {
   "events": [
     {
-      "id": "World Event",
+      "id": "World_Event",
       "active": true,
       "title": "Boost Event",
       "flavor": "Free Boost to Everyone",
       "description": "All Qi gains are doubled for all.",
-      "endsAt": "2026-05-23T23:59:00Z",
+      "endsAt": "2026-05-25T23:59:00Z",
       "effects": {
-        "qiMult": 1.5
+        "qiMult": 2
       }
     },
     {
