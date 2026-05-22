@@ -1,0 +1,19 @@
+{
+  "name": "Astley",
+  "accountId": "gFdE1iKCAOF7",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 312,
+  "age": 111.36472555555562,
+  "isImmortal": false,
+  "difficulty": "main_character",
+  "updatedAt": 1779487593223,
+  "qiStones": {
+    "mantissa": 1,
+    "exponent": 0
+  },
+  "qi": {
+    "mantissa": 7.653909860815352,
+    "exponent": 5
+  }
+}
