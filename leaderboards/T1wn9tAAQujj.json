@@ -1,0 +1,27 @@
+{
+  "name": "Yesjei",
+  "accountId": "T1wn9tAAQujj",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 250,
+  "age": 18.02232,
+  "isImmortal": false,
+  "difficulty": "abyssal",
+  "updatedAt": 1779487911925,
+  "gold": {
+    "mantissa": 5,
+    "exponent": 1
+  },
+  "jade": {
+    "mantissa": 1,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 2.5,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 4.34083918875,
+    "exponent": 1
+  }
+}
