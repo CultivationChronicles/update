@@ -1,0 +1,27 @@
+{
+  "name": "Onko",
+  "accountId": "TTrmi9FjPGq3",
+  "realmIndex": 499,
+  "stage": 12,
+  "score": 1256750,
+  "age": 1506.1984822219472,
+  "isImmortal": true,
+  "difficulty": "abyssal",
+  "updatedAt": 1779510207073,
+  "gold": {
+    "mantissa": 8.884205019539275,
+    "exponent": 56
+  },
+  "jade": {
+    "mantissa": 3.61969405776203,
+    "exponent": 18
+  },
+  "qiStones": {
+    "mantissa": 7.896955910631001,
+    "exponent": 32
+  },
+  "qi": {
+    "mantissa": 1.4768786414507602,
+    "exponent": 668
+  }
+}
