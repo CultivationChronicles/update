@@ -1,0 +1,27 @@
+{
+  "name": "Faded",
+  "accountId": "h8XmKdqOoR7l",
+  "realmIndex": 260,
+  "stage": 1,
+  "score": 676500,
+  "age": 244.16513888887198,
+  "isImmortal": true,
+  "difficulty": "abyssal",
+  "updatedAt": 1779534871076,
+  "gold": {
+    "mantissa": 1.4281407703900848,
+    "exponent": 39
+  },
+  "jade": {
+    "mantissa": 2.800185712997421,
+    "exponent": 38
+  },
+  "qiStones": {
+    "mantissa": 6.023345032191044,
+    "exponent": 37
+  },
+  "qi": {
+    "mantissa": 1.7727777609524593,
+    "exponent": 308
+  }
+}
