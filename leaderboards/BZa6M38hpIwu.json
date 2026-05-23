@@ -1,0 +1,27 @@
+{
+  "name": "Ksksj",
+  "accountId": "BZa6M38hpIwu",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 144,
+  "age": 18.044444444444448,
+  "isImmortal": false,
+  "difficulty": "main_character",
+  "updatedAt": 1779544903704,
+  "gold": {
+    "mantissa": 5,
+    "exponent": 1
+  },
+  "jade": {
+    "mantissa": 1,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 2.5,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 1.023245475275,
+    "exponent": 2
+  }
+}
