@@ -1,27 +1,27 @@
 {
-  "name": "Onko",
+  "name": "Sachide",
   "accountId": "TTrmi9FjPGq3",
   "realmIndex": 499,
   "stage": 12,
   "score": 1256750,
-  "age": 1509.4720688886243,
+  "age": 1507.3112111108453,
   "isImmortal": true,
   "difficulty": "abyssal",
-  "updatedAt": 1779512167766,
+  "updatedAt": 1779530388476,
   "gold": {
-    "mantissa": 1.1442230702319363,
-    "exponent": 57
+    "mantissa": 1.554222419994677,
+    "exponent": 402
   },
   "jade": {
-    "mantissa": 3.619694057762467,
-    "exponent": 18
+    "mantissa": 1.4870400000000001,
+    "exponent": 402
   },
   "qiStones": {
-    "mantissa": 7.991410312453602,
-    "exponent": 32
+    "mantissa": 1.4896197194,
+    "exponent": 402
   },
   "qi": {
-    "mantissa": 1.4859373274433,
-    "exponent": 668
+    "mantissa": 1,
+    "exponent": 999
   }
 }
