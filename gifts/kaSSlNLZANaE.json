@@ -13,6 +13,21 @@
       "pills": {
         "heavens_flow_pill": 10000000000000
       }
+    },
+    {
+      "giftId": "gift_mpjw2948_1tu9a",
+      "senderName": "Test",
+      "reason": "Hello",
+      "description": "Helloo",
+      "sentAt": 1779633878696,
+      "rewardLabel": "999999999999999 Herbs, 10000000000000 Pills",
+      "herbs": {
+        "Blood Grass": 999999999999999
+      },
+      "pills": {
+        "qi_condensing_pill": 9999999999999,
+        "exp_str_low": 1
+      }
     }
   ]
 }
