@@ -22,6 +22,17 @@
           }
         }
       ]
+    },
+    {
+      "giftId": "t10_mpjygyrz_x5sj3",
+      "senderName": "Dev test",
+      "reason": "leaderboards_reward",
+      "description": "Testing",
+      "sentAt": 1779637924366,
+      "rewardLabel": "5 Gold, 5 Jade, 4 Qi Stones",
+      "goldStr": "5",
+      "jadeStr": "5",
+      "qiStonesStr": "4"
     }
   ]
 }
