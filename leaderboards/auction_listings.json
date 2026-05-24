@@ -1,0 +1,40 @@
+{
+  "listings": [
+    {
+      "id": "auc_mpjiqdup_dbtfn",
+      "sellerId": "o0QCZpatqr2g",
+      "item": {
+        "type": "equipment",
+        "instanceId": "myth_dragon_gaunt_II_1776933237140_89205",
+        "equipInstance": {
+          "instanceId": "myth_dragon_gaunt_II_1776933237140_89205",
+          "templateId": "myth_dragon_gaunt_II",
+          "locked": false,
+          "favorite": true
+        },
+        "name": "Dragon King Gauntlets",
+        "icon": "fa-hand-back-fist",
+        "rarity": "mythical",
+        "statsDisplay": "DMG:60 DEF:70"
+      },
+      "currency": "qiStones",
+      "startPrice": {
+        "m": 5,
+        "e": 1
+      },
+      "currentBid": {
+        "m": 0,
+        "e": 0
+      },
+      "highestBidderId": "",
+      "bidCount": 0,
+      "startTime": 1779611489953,
+      "endTime": 1779633089953,
+      "status": "active",
+      "sellerCollected": false,
+      "winnerCollected": false,
+      "collectDeadline": 1779805889953
+    }
+  ],
+  "updatedAt": 1779611489954
+}
