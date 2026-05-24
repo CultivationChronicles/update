@@ -1,0 +1,19 @@
+{
+  "gifts": [
+    {
+      "giftId": "gift_mpjw4l3z_s17jc",
+      "senderName": "Sachide",
+      "reason": "Krkrm",
+      "description": "Krk",
+      "sentAt": 1779633987551,
+      "rewardLabel": "1000000000000000000 Herbs, 1000000000000 Pills",
+      "herbs": {
+        "Blood Grass": 1000000000000000000
+      },
+      "pills": {
+        "qi_condensing_pill": 999999999999,
+        "exp_str_low": 1
+      }
+    }
+  ]
+}
