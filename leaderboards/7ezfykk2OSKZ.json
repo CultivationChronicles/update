@@ -1,0 +1,27 @@
+{
+  "name": "Sachide",
+  "accountId": "7ezfykk2OSKZ",
+  "realmIndex": 499,
+  "stage": 12,
+  "score": 25010,
+  "age": 18.06006333333333,
+  "isImmortal": false,
+  "difficulty": "easy",
+  "updatedAt": 1779619341862,
+  "gold": {
+    "mantissa": 5.393999999999999,
+    "exponent": 401
+  },
+  "jade": {
+    "mantissa": 5.393999999999999,
+    "exponent": 401
+  },
+  "qiStones": {
+    "mantissa": 5.393999999999999,
+    "exponent": 401
+  },
+  "qi": {
+    "mantissa": 8.554985554284512,
+    "exponent": 998
+  }
+}
