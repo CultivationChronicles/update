@@ -26,8 +26,8 @@
   "bidCount": 1,
   "startTime": 1779619319052,
   "endTime": 1779622919052,
-  "status": "active",
-  "sellerCollected": false,
+  "status": "completed",
+  "sellerCollected": true,
   "winnerCollected": true,
   "collectDeadline": 1779795719052
 }
