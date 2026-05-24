@@ -4,10 +4,10 @@
   "realmIndex": 0,
   "stage": 1,
   "score": 80,
-  "age": 45.58753666666668,
+  "age": 45.6681177777778,
   "isImmortal": false,
   "difficulty": "brutal",
-  "updatedAt": 1779630026915,
+  "updatedAt": 1779630075412,
   "gold": {
     "mantissa": 5,
     "exponent": 1
@@ -21,7 +21,7 @@
     "exponent": 1
   },
   "qi": {
-    "mantissa": 3.0017152510254683,
+    "mantissa": 2.565084999200039,
     "exponent": 5
   }
 }
