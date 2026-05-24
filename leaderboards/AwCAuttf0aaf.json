@@ -1,0 +1,27 @@
+{
+  "name": "Nor",
+  "accountId": "AwCAuttf0aaf",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 80,
+  "age": 18.060391111111112,
+  "isImmortal": false,
+  "difficulty": "brutal",
+  "updatedAt": 1779713290104,
+  "gold": {
+    "mantissa": 5,
+    "exponent": 1
+  },
+  "jade": {
+    "mantissa": 1,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 2.5,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 3.3573983536875005,
+    "exponent": 2
+  }
+}
