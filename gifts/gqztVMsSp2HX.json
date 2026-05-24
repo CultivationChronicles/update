@@ -30,6 +30,14 @@
         "exp_con_mid": 1e+96,
         "exp_str_mid": 1e+120
       }
+    },
+    {
+      "giftId": "gift_mpjzqqmi_xatvj",
+      "senderName": "Sachide",
+      "reason": "",
+      "description": "",
+      "sentAt": 1779640059978,
+      "rewardLabel": "Special Reward"
     }
   ]
 }
