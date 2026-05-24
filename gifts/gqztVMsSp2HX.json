@@ -1,0 +1,35 @@
+{
+  "gifts": [
+    {
+      "giftId": "gift_mpjzqo4p_2gc0m",
+      "senderName": "Sachide",
+      "reason": "",
+      "description": "",
+      "sentAt": 1779640056745,
+      "rewardLabel": "3e+192 Herbs, 2e+192 Pills",
+      "herbs": {
+        "Blood Grass": 1e+96,
+        "Emperor Heaven Root": 1e+168,
+        "Venerable Ascension Petal": 1e+168,
+        "Saint Heart Lotus": 1e+120,
+        "Dao Breath Orchid": 1e+120,
+        "Annihilation Bloom": 1e+120,
+        "Heavenly Sunder Bud": 1e+192,
+        "Iron Vein Thistle": 1e+192,
+        "Shattering Star Seed": 1e+144,
+        "Crimson Killing Petal": 1e+192
+      },
+      "pills": {
+        "heavens_essence_pill": 1e+79,
+        "vitality_core_pill": 2e+168,
+        "supreme_vitality_pill": 1e+168,
+        "foundation_pill": 1e+192,
+        "spirit_nourishing_pill": 1e+192,
+        "azure_core_pill": 1e+120,
+        "exp_qi_high": 2e+72,
+        "exp_con_mid": 1e+96,
+        "exp_str_mid": 1e+120
+      }
+    }
+  ]
+}
