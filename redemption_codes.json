@@ -1,0 +1,17 @@
+{
+  "codes": [
+    {
+      "uniqueId": "rc_mpjan5dr_alfpt",
+      "code": "TESTING",
+      "name": "Testing only",
+      "description": "Testing only",
+      "rewardType": "instant_qi",
+      "rewardLabel": "Instant Qi Burst",
+      "createdAt": 1779597902079,
+      "expiresAt": 1779667200000,
+      "instantQiBase": 100000000000000000000,
+      "instantQiRateMult": 9999
+    }
+  ],
+  "updatedAt": 1779597902452
+}
