@@ -1,0 +1,21 @@
+{
+  "gifts": [
+    {
+      "giftId": "gift_mpjaxz51_9jzet",
+      "senderName": "Crazy",
+      "reason": "Good person",
+      "description": "Sip",
+      "sentAt": 1779598407205,
+      "rewardLabel": "+10000% Qi Rate for 1h, Instant Qi Burst, 5,000,000 Gold, 50,500 Jade, 500,000 Qi Stones, 500 Herbs",
+      "gold": 5000000,
+      "jade": 50500,
+      "qiStones": 500000,
+      "herbs": {
+        "ginseng": 500
+      },
+      "qiRateMult": 100,
+      "qiRateMultDurationMs": 3600000,
+      "instantQiBase": 50
+    }
+  ]
+}
