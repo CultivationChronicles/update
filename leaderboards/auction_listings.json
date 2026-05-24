@@ -30,8 +30,8 @@
       "bidCount": 1,
       "startTime": 1779611489953,
       "endTime": 1779633089953,
-      "status": "active",
-      "sellerCollected": false,
+      "status": "ended_winner",
+      "sellerCollected": true,
       "winnerCollected": false,
       "collectDeadline": 1779805889953
     },
@@ -63,11 +63,11 @@
       "bidCount": 2,
       "startTime": 1779611668284,
       "endTime": 1779615268284,
-      "status": "active",
+      "status": "ended_winner",
       "sellerCollected": false,
       "winnerCollected": false,
       "collectDeadline": 1779788068284
     }
   ],
-  "updatedAt": 1779611827468
+  "updatedAt": 1779698398068
 }
