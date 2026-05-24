@@ -1,0 +1,31 @@
+{
+  "gifts": [
+    {
+      "giftId": "gift_mpjtulww_udjhm",
+      "senderName": "Sachide",
+      "reason": "Nope",
+      "description": "Nope",
+      "sentAt": 1779630162800,
+      "rewardLabel": "1388 Gold, 1000000000000 Herbs, 1 Equipment, +99999999900% Qi Rate",
+      "goldStr": "1388",
+      "qiRateMult": 999999999,
+      "qiRateMultDurationMs": 3600000,
+      "herbs": {
+        "Blood Grass": 1000000000000
+      },
+      "customEquipment": [
+        {
+          "id": "custom_eq_mpjtub21_p15pf",
+          "name": "Checker",
+          "slot": "weapon",
+          "rarity": "mythical",
+          "icon": "fa-khanda",
+          "description": "Ron",
+          "stats": {
+            "damage": 100000000000000000000
+          }
+        }
+      ]
+    }
+  ]
+}
