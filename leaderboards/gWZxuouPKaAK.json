@@ -1,0 +1,15 @@
+{
+  "name": "Rd",
+  "accountId": "gWZxuouPKaAK",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 500,
+  "age": 18.994602222222266,
+  "isImmortal": false,
+  "difficulty": "abyssal",
+  "updatedAt": 1779605559486,
+  "qi": {
+    "mantissa": 5.281087688039893,
+    "exponent": 3
+  }
+}
