@@ -77,6 +77,22 @@
       "herbs": {
         "Boundless Eternity Petal": 1e+88
       }
+    },
+    {
+      "giftId": "gift_mpjycle6_4jism",
+      "senderName": "Sachide",
+      "reason": "N",
+      "description": "N",
+      "sentAt": 1779637720398,
+      "rewardLabel": "1.0000000000002e+78 Herbs",
+      "herbs": {
+        "Blood Grass": 1e+78,
+        "Boundless Eternity Petal": 1e+65,
+        "Heavenly Saint Fruit": 1e+52,
+        "Origin Spirit Bloom": 1e+39,
+        "Dao Breath Orchid": 1e+65,
+        "Saint Heart Lotus": 1e+52
+      }
     }
   ]
 }
