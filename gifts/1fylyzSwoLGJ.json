@@ -1,0 +1,27 @@
+{
+  "gifts": [
+    {
+      "giftId": "gift_mpjgb8lw_qqow5",
+      "senderName": "Sachide",
+      "reason": "None",
+      "description": "Hello",
+      "sentAt": 1779607424084,
+      "rewardLabel": "1 Equipment",
+      "customEquipment": [
+        {
+          "id": "custom_eq_mpjgb2mr_7atq5",
+          "name": "Gyat",
+          "slot": "shoes",
+          "rarity": "mythical",
+          "icon": "fa-khanda",
+          "description": "Nope",
+          "stats": {
+            "charisma": 999999999999,
+            "strength": 1e+22,
+            "damage": 1e+35
+          }
+        }
+      ]
+    }
+  ]
+}
