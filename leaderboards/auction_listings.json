@@ -114,11 +114,11 @@
         "e": 0
       },
       "currentBid": {
-        "m": 4,
-        "e": 2
+        "m": 3.46,
+        "e": 5
       },
-      "highestBidderId": "hHsYaw7BcLIV",
-      "bidCount": 2,
+      "highestBidderId": "znb5e6rTyu8s",
+      "bidCount": 3,
       "startTime": 1779871491965,
       "endTime": 1779957891965,
       "status": "active",
@@ -127,5 +127,5 @@
       "collectDeadline": 1780130691965
     }
   ],
-  "updatedAt": 1779871545020
+  "updatedAt": 1779871595715
 }
