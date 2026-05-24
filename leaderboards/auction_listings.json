@@ -125,7 +125,36 @@
       "sellerCollected": true,
       "winnerCollected": true,
       "collectDeadline": 1780130691965
+    },
+    {
+      "id": "auc_mpp9q3y5_daje1",
+      "sellerId": "znb5e6rTyu8s",
+      "item": {
+        "type": "xistone",
+        "itemId": "xi_ru_legendary",
+        "quantity": 1,
+        "name": "Xi Stone Ru (Legendary)",
+        "icon": "fa-wand-magic-sparkles",
+        "rarity": "legendary"
+      },
+      "currency": "qiStones",
+      "startPrice": {
+        "m": 1,
+        "e": 3
+      },
+      "currentBid": {
+        "m": 0,
+        "e": 0
+      },
+      "highestBidderId": "",
+      "bidCount": 0,
+      "startTime": 1779959157629,
+      "endTime": 1780045557629,
+      "status": "active",
+      "sellerCollected": false,
+      "winnerCollected": false,
+      "collectDeadline": 1780218357629
     }
   ],
-  "updatedAt": 1779958048394
+  "updatedAt": 1779959157630
 }
