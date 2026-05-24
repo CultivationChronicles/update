@@ -66,6 +66,17 @@
       "herbs": {
         "Blood Grass": 1e+80
       }
+    },
+    {
+      "giftId": "gift_mpjy87j4_vj4nc",
+      "senderName": "Sachide",
+      "reason": "",
+      "description": "",
+      "sentAt": 1779637515808,
+      "rewardLabel": "1e+88 Herbs",
+      "herbs": {
+        "Boundless Eternity Petal": 1e+88
+      }
     }
   ]
 }
