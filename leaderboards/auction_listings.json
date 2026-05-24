@@ -30,7 +30,7 @@
       "bidCount": 1,
       "startTime": 1779611489953,
       "endTime": 1779633089953,
-      "status": "ended_winner",
+      "status": "expired",
       "sellerCollected": true,
       "winnerCollected": false,
       "collectDeadline": 1779805889953
@@ -96,7 +96,36 @@
       "sellerCollected": true,
       "winnerCollected": true,
       "collectDeadline": 1779957687008
+    },
+    {
+      "id": "auc_mpntj4ot_1glqa",
+      "sellerId": "o0QCZpatqr2g",
+      "item": {
+        "type": "herb",
+        "itemId": "Wild Mint",
+        "quantity": 1,
+        "name": "Wild Mint",
+        "icon": "fa-leaf",
+        "rarity": "common"
+      },
+      "currency": "jade",
+      "startPrice": {
+        "m": 1.09,
+        "e": 0
+      },
+      "currentBid": {
+        "m": 0,
+        "e": 0
+      },
+      "highestBidderId": "",
+      "bidCount": 0,
+      "startTime": 1779871491965,
+      "endTime": 1779957891965,
+      "status": "active",
+      "sellerCollected": false,
+      "winnerCollected": false,
+      "collectDeadline": 1780130691965
     }
   ],
-  "updatedAt": 1779784975612
+  "updatedAt": 1779871491965
 }
