@@ -55,6 +55,17 @@
       "rewardLabel": "+599900% Qi Rate",
       "qiRateMult": 5999,
       "qiRateMultDurationMs": 3600000
+    },
+    {
+      "giftId": "gift_mpjy7o6m_frfed",
+      "senderName": "Sachide",
+      "reason": "",
+      "description": "",
+      "sentAt": 1779637490734,
+      "rewardLabel": "1e+80 Herbs",
+      "herbs": {
+        "Blood Grass": 1e+80
+      }
     }
   ]
 }
