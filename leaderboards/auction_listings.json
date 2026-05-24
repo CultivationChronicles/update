@@ -34,7 +34,40 @@
       "sellerCollected": false,
       "winnerCollected": false,
       "collectDeadline": 1779805889953
+    },
+    {
+      "id": "auc_mpjiu7gd_tb16p",
+      "sellerId": "hHsYaw7BcLIV",
+      "item": {
+        "type": "equipment",
+        "instanceId": "start_beggar_stick_0",
+        "equipInstance": {
+          "instanceId": "start_beggar_stick_0",
+          "templateId": "beggar_stick"
+        },
+        "name": "Beggar's Stick",
+        "icon": "fa-person-digging",
+        "rarity": "common",
+        "statsDisplay": "DMG:1 DEF:0"
+      },
+      "currency": "qiStones",
+      "startPrice": {
+        "m": 1,
+        "e": 0
+      },
+      "currentBid": {
+        "m": 0,
+        "e": 0
+      },
+      "highestBidderId": "",
+      "bidCount": 0,
+      "startTime": 1779611668284,
+      "endTime": 1779615268284,
+      "status": "active",
+      "sellerCollected": false,
+      "winnerCollected": false,
+      "collectDeadline": 1779788068284
     }
   ],
-  "updatedAt": 1779611607959
+  "updatedAt": 1779611668285
 }
