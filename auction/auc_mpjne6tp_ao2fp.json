@@ -19,11 +19,11 @@
     "e": 0
   },
   "currentBid": {
-    "m": 0,
-    "e": 0
+    "m": 5,
+    "e": 1
   },
-  "highestBidderId": "",
-  "bidCount": 0,
+  "highestBidderId": "P24JHp6VEbmL",
+  "bidCount": 1,
   "startTime": 1779619319052,
   "endTime": 1779622919052,
   "status": "active",
