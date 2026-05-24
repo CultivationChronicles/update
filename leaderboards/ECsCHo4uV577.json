@@ -1,0 +1,27 @@
+{
+  "name": "Ron",
+  "accountId": "ECsCHo4uV577",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 5,
+  "age": 46.01224333333333,
+  "isImmortal": false,
+  "difficulty": "easy",
+  "updatedAt": 1779633949388,
+  "gold": {
+    "mantissa": 5,
+    "exponent": 1
+  },
+  "jade": {
+    "mantissa": 1.4798799999999996,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 2.5,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 2.0856280360620256,
+    "exponent": 5
+  }
+}
