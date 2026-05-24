@@ -34,6 +34,17 @@
         "Iron Reed": 670000,
         "Thousand Year Ginseng": 670000
       }
+    },
+    {
+      "giftId": "gift_mpjxxpn8_mlo0d",
+      "senderName": "Sachide",
+      "reason": "",
+      "description": "",
+      "sentAt": 1779637026068,
+      "rewardLabel": "1e+21 Herbs",
+      "herbs": {
+        "Blood Grass": 1e+21
+      }
     }
   ]
 }
