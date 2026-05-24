@@ -1,0 +1,29 @@
+{
+  "id": "auc_mpjrpod2_uvpyk",
+  "sellerId": "QCfeiych35cU",
+  "item": {
+    "type": "herb",
+    "itemId": "Blood Grass",
+    "quantity": 1,
+    "name": "Blood Grass",
+    "icon": "fa-leaf",
+    "rarity": "common"
+  },
+  "currency": "jade",
+  "startPrice": {
+    "m": 5,
+    "e": 0
+  },
+  "currentBid": {
+    "m": 0,
+    "e": 0
+  },
+  "highestBidderId": "",
+  "bidCount": 0,
+  "startTime": 1779626573513,
+  "endTime": 1779712973513,
+  "status": "active",
+  "sellerCollected": false,
+  "winnerCollected": false,
+  "collectDeadline": 1779885773513
+}
