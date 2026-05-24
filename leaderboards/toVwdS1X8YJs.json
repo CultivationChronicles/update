@@ -2,26 +2,26 @@
   "name": "Hel",
   "accountId": "toVwdS1X8YJs",
   "realmIndex": 0,
-  "stage": 1,
-  "score": 6,
-  "age": 18.084890000000005,
+  "stage": 2,
+  "score": 11,
+  "age": 18.466536666666663,
   "isImmortal": false,
   "difficulty": "main_character",
-  "updatedAt": 1779602313517,
+  "updatedAt": 1779602661017,
   "gold": {
-    "mantissa": 2.363,
-    "exponent": 2
+    "mantissa": 1.0694249999999998,
+    "exponent": 999
   },
   "jade": {
     "mantissa": 1,
-    "exponent": 1
+    "exponent": 9298
   },
   "qiStones": {
-    "mantissa": 2.5,
-    "exponent": 1
+    "mantissa": 1.05,
+    "exponent": 9282
   },
   "qi": {
-    "mantissa": 1.070011213390201,
-    "exponent": 3
+    "mantissa": 1.008883366733751,
+    "exponent": 7
   }
 }
