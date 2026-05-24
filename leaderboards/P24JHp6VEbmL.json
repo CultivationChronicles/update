@@ -3,21 +3,13 @@
   "accountId": "P24JHp6VEbmL",
   "realmIndex": 0,
   "stage": 1,
-  "score": 250,
-  "age": 23.616594444444484,
+  "score": 500,
+  "age": 18.191111111111134,
   "isImmortal": false,
   "difficulty": "abyssal",
-  "updatedAt": 1779621011026,
-  "jade": {
-    "mantissa": 1.9024096739630434,
-    "exponent": 2
-  },
-  "qiStones": {
-    "mantissa": 2.5,
-    "exponent": 1
-  },
+  "updatedAt": 1779707571459,
   "qi": {
-    "mantissa": 4.548521133200001,
+    "mantissa": 2.7916679589166815,
     "exponent": 2
   }
 }
