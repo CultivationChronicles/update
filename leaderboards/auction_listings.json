@@ -67,7 +67,36 @@
       "sellerCollected": true,
       "winnerCollected": true,
       "collectDeadline": 1779788068284
+    },
+    {
+      "id": "auc_mpkyj17k_t6z8h",
+      "sellerId": "o0QCZpatqr2g",
+      "item": {
+        "type": "herb",
+        "itemId": "Crimson Lotus",
+        "quantity": 44,
+        "name": "Crimson Lotus",
+        "icon": "fa-leaf",
+        "rarity": "rare"
+      },
+      "currency": "gold",
+      "startPrice": {
+        "m": 1,
+        "e": 30
+      },
+      "currentBid": {
+        "m": 0,
+        "e": 0
+      },
+      "highestBidderId": "",
+      "bidCount": 0,
+      "startTime": 1779698487008,
+      "endTime": 1779784887008,
+      "status": "active",
+      "sellerCollected": false,
+      "winnerCollected": false,
+      "collectDeadline": 1779957687008
     }
   ],
-  "updatedAt": 1779698442900
+  "updatedAt": 1779698487008
 }
