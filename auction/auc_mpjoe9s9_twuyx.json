@@ -28,6 +28,6 @@
   "endTime": 1779624602505,
   "status": "active",
   "sellerCollected": false,
-  "winnerCollected": false,
+  "winnerCollected": true,
   "collectDeadline": 1779797402505
 }
