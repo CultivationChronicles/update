@@ -64,10 +64,10 @@
       "startTime": 1779611668284,
       "endTime": 1779615268284,
       "status": "ended_winner",
-      "sellerCollected": false,
+      "sellerCollected": true,
       "winnerCollected": false,
       "collectDeadline": 1779788068284
     }
   ],
-  "updatedAt": 1779698398068
+  "updatedAt": 1779698420148
 }
