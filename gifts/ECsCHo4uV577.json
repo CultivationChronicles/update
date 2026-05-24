@@ -22,6 +22,18 @@
       "description": "",
       "sentAt": 1779633994633,
       "rewardLabel": "Special Reward"
+    },
+    {
+      "giftId": "gift_mpjwtsbm_k647e",
+      "senderName": "Sachide",
+      "reason": "",
+      "description": "",
+      "sentAt": 1779635163298,
+      "rewardLabel": "1340000 Herbs",
+      "herbs": {
+        "Iron Reed": 670000,
+        "Thousand Year Ginseng": 670000
+      }
     }
   ]
 }
