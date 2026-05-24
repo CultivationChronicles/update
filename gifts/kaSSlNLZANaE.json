@@ -1,0 +1,18 @@
+{
+  "gifts": [
+    {
+      "giftId": "gift_mpjw0iop_7hvd1",
+      "senderName": "Sachide",
+      "reason": "None",
+      "description": "None",
+      "sentAt": 1779633797785,
+      "rewardLabel": "999999999999 Herbs, 10000000000000 Pills",
+      "herbs": {
+        "Blood Grass": 999999999999
+      },
+      "pills": {
+        "heavens_flow_pill": 10000000000000
+      }
+    }
+  ]
+}
