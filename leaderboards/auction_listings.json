@@ -176,11 +176,11 @@
         "e": 2
       },
       "currentBid": {
-        "m": 0,
-        "e": 0
+        "m": 1.1,
+        "e": 9
       },
-      "highestBidderId": "",
-      "bidCount": 0,
+      "highestBidderId": "o0QCZpatqr2g",
+      "bidCount": 1,
       "startTime": 1780132108953,
       "endTime": 1780218508953,
       "status": "active",
@@ -189,5 +189,5 @@
       "collectDeadline": 1780391308953
     }
   ],
-  "updatedAt": 1780132108953
+  "updatedAt": 1780132136942
 }
