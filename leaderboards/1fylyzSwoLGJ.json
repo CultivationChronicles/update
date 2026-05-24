@@ -1,0 +1,27 @@
+{
+  "name": "MoXuan",
+  "accountId": "1fylyzSwoLGJ",
+  "realmIndex": 460,
+  "stage": 1,
+  "score": 23010,
+  "age": 828.7893666665041,
+  "isImmortal": true,
+  "difficulty": "easy",
+  "updatedAt": 1779607276285,
+  "gold": {
+    "mantissa": 5.604997576342658,
+    "exponent": 28
+  },
+  "jade": {
+    "mantissa": 1.0826746521047164,
+    "exponent": 9
+  },
+  "qiStones": {
+    "mantissa": 7.494000012066537,
+    "exponent": 17
+  },
+  "qi": {
+    "mantissa": 7.168926663270534,
+    "exponent": 551
+  }
+}
