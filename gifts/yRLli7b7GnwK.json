@@ -1,0 +1,15 @@
+{
+  "gifts": [
+    {
+      "giftId": "t10_mpjyh3o7_n7yus",
+      "senderName": "Dev test",
+      "reason": "leaderboards_reward",
+      "description": "Testing",
+      "sentAt": 1779637930711,
+      "rewardLabel": "5 Gold, 5 Jade, 4 Qi Stones",
+      "goldStr": "5",
+      "jadeStr": "5",
+      "qiStonesStr": "4"
+    }
+  ]
+}
