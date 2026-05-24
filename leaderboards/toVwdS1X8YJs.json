@@ -4,12 +4,12 @@
   "realmIndex": 0,
   "stage": 1,
   "score": 6,
-  "age": 18.041111111111114,
+  "age": 18.05600111111111,
   "isImmortal": false,
   "difficulty": "main_character",
-  "updatedAt": 1779602273473,
+  "updatedAt": 1779602287624,
   "gold": {
-    "mantissa": 1.4929999999999999,
+    "mantissa": 2.363,
     "exponent": 2
   },
   "jade": {
@@ -21,7 +21,7 @@
     "exponent": 1
   },
   "qi": {
-    "mantissa": 4.981527825852011,
+    "mantissa": 6.926522833902011,
     "exponent": 2
   }
 }
