@@ -1,0 +1,29 @@
+{
+  "id": "auc_mpktslah_bwkxb",
+  "sellerId": "9B2T2igtuJnq",
+  "item": {
+    "type": "pill",
+    "itemId": "sc_void_eternity_ginseng",
+    "quantity": 1,
+    "name": "Void Eternity Ginseng Pill",
+    "icon": "fa-pills",
+    "rarity": "uncommon"
+  },
+  "currency": "jade",
+  "startPrice": {
+    "m": 1.01,
+    "e": 2
+  },
+  "currentBid": {
+    "m": 0,
+    "e": 0
+  },
+  "highestBidderId": "",
+  "bidCount": 0,
+  "startTime": 1779690534590,
+  "endTime": 1779776934590,
+  "status": "active",
+  "sellerCollected": false,
+  "winnerCollected": false,
+  "collectDeadline": 1779949734590
+}
