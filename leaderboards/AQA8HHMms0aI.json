@@ -7,7 +7,7 @@
   "age": 30,
   "isImmortal": false,
   "difficulty": "abyssal",
-  "updatedAt": 1779690004895,
+  "updatedAt": 1779690364953,
   "gold": {
     "mantissa": 7.7,
     "exponent": 1
@@ -21,7 +21,7 @@
     "exponent": 0
   },
   "qi": {
-    "mantissa": 1.7936847177055282,
+    "mantissa": 1.293038777343774,
     "exponent": 4
   }
 }
