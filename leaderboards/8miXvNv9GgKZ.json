@@ -1,0 +1,27 @@
+{
+  "name": "Envy",
+  "accountId": "8miXvNv9GgKZ",
+  "realmIndex": 13,
+  "stage": 5,
+  "score": 1350,
+  "age": 803.5217433332776,
+  "isImmortal": true,
+  "difficulty": "normal",
+  "updatedAt": 1779683849166,
+  "gold": {
+    "mantissa": 3.729154840121961,
+    "exponent": 287
+  },
+  "jade": {
+    "mantissa": 2.6172447073196814,
+    "exponent": 22
+  },
+  "qiStones": {
+    "mantissa": 1.1985897875650704,
+    "exponent": 73
+  },
+  "qi": {
+    "mantissa": 8.342621028966139,
+    "exponent": 20
+  }
+}
