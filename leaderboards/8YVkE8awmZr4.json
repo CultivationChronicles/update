@@ -1,0 +1,27 @@
+{
+  "name": "Shenfen",
+  "accountId": "8YVkE8awmZr4",
+  "realmIndex": 63,
+  "stage": 1,
+  "score": 6310,
+  "age": 1855.3845733340374,
+  "isImmortal": true,
+  "difficulty": "normal",
+  "updatedAt": 1779698906923,
+  "gold": {
+    "mantissa": 2.3088133113852374,
+    "exponent": 31
+  },
+  "jade": {
+    "mantissa": 2.733791958412818,
+    "exponent": 8
+  },
+  "qiStones": {
+    "mantissa": 2.708240973420604,
+    "exponent": 19
+  },
+  "qi": {
+    "mantissa": 6.5123680683291765,
+    "exponent": 93
+  }
+}
