@@ -2,26 +2,26 @@
   "name": "Merlin",
   "accountId": "9B2T2igtuJnq",
   "realmIndex": 11,
-  "stage": 9,
-  "score": 1190,
-  "age": 242.4153266665853,
+  "stage": 10,
+  "score": 1200,
+  "age": 242.74977999991805,
   "isImmortal": true,
   "difficulty": "normal",
-  "updatedAt": 1779692385093,
+  "updatedAt": 1779692684878,
   "gold": {
-    "mantissa": 2.3748138470001483,
+    "mantissa": 2.743614486695142,
     "exponent": 29
   },
   "jade": {
-    "mantissa": 1.004834599249133,
+    "mantissa": 1.0050410413691317,
     "exponent": 9
   },
   "qiStones": {
-    "mantissa": 2.6365180891046043,
+    "mantissa": 2.6361331533518766,
     "exponent": 12
   },
   "qi": {
-    "mantissa": 1.267637097898705,
-    "exponent": 18
+    "mantissa": 3.983433546147802,
+    "exponent": 17
   }
 }
