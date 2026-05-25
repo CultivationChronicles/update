@@ -1,15 +1,15 @@
 {
-  "name": "Envy",
+  "name": "Tianyu",
   "accountId": "8miXvNv9GgKZ",
   "realmIndex": 13,
-  "stage": 5,
-  "score": 1350,
-  "age": 803.9682111110503,
+  "stage": 8,
+  "score": 1380,
+  "age": 804.3664366666036,
   "isImmortal": true,
   "difficulty": "normal",
-  "updatedAt": 1779684326448,
+  "updatedAt": 1779684626448,
   "gold": {
-    "mantissa": 3.754577829896215,
+    "mantissa": 4.359785732402942,
     "exponent": 287
   },
   "jade": {
@@ -17,11 +17,11 @@
     "exponent": 22
   },
   "qiStones": {
-    "mantissa": 1.1985897875650704,
+    "mantissa": 1.2108674801892207,
     "exponent": 73
   },
   "qi": {
-    "mantissa": 6.693019834303372,
+    "mantissa": 3.8532172095266275,
     "exponent": 20
   }
 }
