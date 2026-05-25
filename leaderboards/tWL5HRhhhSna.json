@@ -1,0 +1,27 @@
+{
+  "name": "Maryeal",
+  "accountId": "tWL5HRhhhSna",
+  "realmIndex": 0,
+  "stage": 2,
+  "score": 60,
+  "age": 18.644696666666697,
+  "isImmortal": false,
+  "difficulty": "hard",
+  "updatedAt": 1779692618221,
+  "gold": {
+    "mantissa": 1.75,
+    "exponent": 2
+  },
+  "jade": {
+    "mantissa": 1,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 2.5,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 2.794487830567365,
+    "exponent": 3
+  }
+}
