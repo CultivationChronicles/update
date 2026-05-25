@@ -1,15 +1,15 @@
 {
   "name": "Wilb",
   "accountId": "yzokPjuhltku",
-  "realmIndex": 2,
-  "stage": 10,
-  "score": 75,
-  "age": 18.731908888889205,
+  "realmIndex": 3,
+  "stage": 2,
+  "score": 80,
+  "age": 18.81579833333368,
   "isImmortal": false,
   "difficulty": "main_character",
-  "updatedAt": 1779697783408,
+  "updatedAt": 1779698086754,
   "gold": {
-    "mantissa": 7.889014633307023,
+    "mantissa": 9.633077459500688,
     "exponent": 4
   },
   "jade": {
@@ -17,11 +17,11 @@
     "exponent": 3
   },
   "qiStones": {
-    "mantissa": 1.366539081097539,
+    "mantissa": 1.4688192452781696,
     "exponent": 3
   },
   "qi": {
-    "mantissa": 5.473672770651712,
+    "mantissa": 1.4168113714040853,
     "exponent": 7
   }
 }
