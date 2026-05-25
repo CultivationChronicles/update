@@ -1,0 +1,27 @@
+{
+  "name": "Dutu",
+  "accountId": "jhxGuhk4Z25D",
+  "realmIndex": 5,
+  "stage": 6,
+  "score": 2800,
+  "age": 50.89180222222165,
+  "isImmortal": false,
+  "difficulty": "hardcore",
+  "updatedAt": 1779689653528,
+  "gold": {
+    "mantissa": 3.045694050988019,
+    "exponent": 6
+  },
+  "jade": {
+    "mantissa": 5.28,
+    "exponent": 2
+  },
+  "qiStones": {
+    "mantissa": 1.6784446596520126,
+    "exponent": 4
+  },
+  "qi": {
+    "mantissa": 6.088105594481616,
+    "exponent": 10
+  }
+}
