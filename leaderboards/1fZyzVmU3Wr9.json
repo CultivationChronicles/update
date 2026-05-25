@@ -1,1 +1,27 @@
-CCv4:WFc5FF8bOShZTSINRAt/WlExDDscIQcsWzkhGQNzbHZQKjU/WjkXLBM1HxsCXVJwDSlSER8mPQMBSRgeBkJScBUhDzscRD0sXzE2M0RkVVsTJSkXAz4QLVg1HxoAf2x0EDYLPQYxYQITFDIzRHRvWwwUDz0GOQs7HEEyM2Veb1oMEDIUFhs5KFlNIg1EC39aUTEMOxwTFyweOTEaRnNSdBw+Gz9cEyksHBMfGFh3ClofCyYWGjIEAwALGxhYZ39jDRcMOxxEGy9fMTYzRGRVWxMlKRcDPhAtXSEfGQB/UnQSIiU9WjUpL1ghHxtJXVJwDSlSER8mPQMBSRgeBkJScA4fUxABPhAtWikfGkl7bHQfJhs8WhcpLxEXHx4BdH1jCTU5KwQ2CwUADxweQnRvWxxeDBAGGzkoXCo9NQB8b1gIPTYTBD4QLQU2PTVZaFV2DBA2K18+YAMdSSIES15VcBYMCzwWOSksEzUPGktjbHQfIjU9Gh8HLF8xJg1fdFVwFiYbPxcbOSgFMkY1W3xWcBYqCz0GIWE7ASpGNFhFa3RTLiIXAyY+AyNJMjVZZFVaDBAIO1o9YDcTLSM1ZkJgXAQ9Nj8GGzkoAhQwM0RkC1sPKTYrBgM6KBwuIjJEdG9uDAgLOwNFBDgcMgwy
+{
+  "name": "Yanyen",
+  "accountId": "1fZyzVmU3Wr9",
+  "realmIndex": 0,
+  "stage": 6,
+  "score": 60,
+  "age": 19.917246666666404,
+  "isImmortal": false,
+  "difficulty": "normal",
+  "updatedAt": 1779703146229,
+  "gold": {
+    "mantissa": 9.93504171053467,
+    "exponent": 3
+  },
+  "jade": {
+    "mantissa": 5.200639999999999,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 3.407,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 8.532713746463395,
+    "exponent": 4
+  }
+}
