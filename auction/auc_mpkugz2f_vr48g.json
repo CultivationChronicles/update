@@ -1,0 +1,33 @@
+{
+  "id": "auc_mpkugz2f_vr48g",
+  "sellerId": "otySjS0eZHYg",
+  "item": {
+    "type": "equipment",
+    "instanceId": "mission_eq_heaven_spear_1779689398838_379650276",
+    "equipInstance": {
+      "instanceId": "mission_eq_heaven_spear_1779689398838_379650276",
+      "templateId": "heaven_spear"
+    },
+    "name": "Heaven-Piercing Spear",
+    "icon": "fa-staff-snake",
+    "rarity": "epic",
+    "statsDisplay": "DMG:22 DEF:0"
+  },
+  "currency": "jade",
+  "startPrice": {
+    "m": 1,
+    "e": 4
+  },
+  "currentBid": {
+    "m": 0,
+    "e": 0
+  },
+  "highestBidderId": "",
+  "bidCount": 0,
+  "startTime": 1779691671913,
+  "endTime": 1779778071913,
+  "status": "active",
+  "sellerCollected": false,
+  "winnerCollected": false,
+  "collectDeadline": 1779950871913
+}
