@@ -1,0 +1,27 @@
+{
+  "name": "FangYuan",
+  "accountId": "znb5e6rTyu8s",
+  "realmIndex": 8,
+  "stage": 7,
+  "score": 21750,
+  "age": 325.84768333332244,
+  "isImmortal": false,
+  "difficulty": "abyssal",
+  "updatedAt": 1779735087709,
+  "gold": {
+    "mantissa": 4.583785588110034,
+    "exponent": 14
+  },
+  "jade": {
+    "mantissa": 3.4564903190820413,
+    "exponent": 7
+  },
+  "qiStones": {
+    "mantissa": 7.3128398679794415,
+    "exponent": 7
+  },
+  "qi": {
+    "mantissa": 4.379447027446126,
+    "exponent": 12
+  }
+}
