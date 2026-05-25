@@ -1,0 +1,27 @@
+{
+  "name": "Shiro",
+  "accountId": "vHaFNkBg22xQ",
+  "realmIndex": 11,
+  "stage": 5,
+  "score": 1160,
+  "age": 824.221212222209,
+  "isImmortal": true,
+  "difficulty": "normal",
+  "updatedAt": 1779699226346,
+  "gold": {
+    "mantissa": 6.354485535063558,
+    "exponent": 12
+  },
+  "jade": {
+    "mantissa": 6.9669115156446795,
+    "exponent": 7
+  },
+  "qiStones": {
+    "mantissa": 4.147259450358718,
+    "exponent": 8
+  },
+  "qi": {
+    "mantissa": 2.5107878853420784,
+    "exponent": 26
+  }
+}
