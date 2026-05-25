@@ -1,0 +1,27 @@
+{
+  "name": "Xiyan",
+  "accountId": "9YBvp4xnjZm8",
+  "realmIndex": 16,
+  "stage": 2,
+  "score": 4980,
+  "age": 1728.4316533332758,
+  "isImmortal": true,
+  "difficulty": "hard",
+  "updatedAt": 1779689421891,
+  "gold": {
+    "mantissa": 1.7868269061626387,
+    "exponent": 24
+  },
+  "jade": {
+    "mantissa": 3.0296631457020413,
+    "exponent": 8
+  },
+  "qiStones": {
+    "mantissa": 6.0655062358977965,
+    "exponent": 14
+  },
+  "qi": {
+    "mantissa": 6.070331845873629,
+    "exponent": 23
+  }
+}
