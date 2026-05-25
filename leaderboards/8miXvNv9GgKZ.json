@@ -2,26 +2,26 @@
   "name": "Tianyu",
   "accountId": "8miXvNv9GgKZ",
   "realmIndex": 14,
-  "stage": 3,
-  "score": 1430,
-  "age": 816.4216866665391,
+  "stage": 4,
+  "score": 1440,
+  "age": 816.7703399998699,
   "isImmortal": true,
   "difficulty": "normal",
-  "updatedAt": 1779695450308,
+  "updatedAt": 1779695766784,
   "gold": {
-    "mantissa": 4.7168458253033245,
+    "mantissa": 9.691515232246752,
     "exponent": 291
   },
   "jade": {
-    "mantissa": 1.9459640323617198,
+    "mantissa": 2.980439930086499,
     "exponent": 24
   },
   "qiStones": {
-    "mantissa": 5.718543144790249,
+    "mantissa": 9.237180103688065,
     "exponent": 74
   },
   "qi": {
-    "mantissa": 2.223627973736399,
-    "exponent": 21
+    "mantissa": 5.9721767234947345,
+    "exponent": 20
   }
 }
