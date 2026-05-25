@@ -1,0 +1,33 @@
+{
+  "id": "auc_mpkzdnz4_r4272",
+  "sellerId": "V0A6FY2FDOBS",
+  "item": {
+    "type": "equipment",
+    "instanceId": "shop_wargod_crown_1779246769605",
+    "equipInstance": {
+      "instanceId": "shop_wargod_crown_1779246769605",
+      "templateId": "shop_wargod_crown"
+    },
+    "name": "War God's Killing Crown",
+    "icon": "fa-crown",
+    "rarity": "legendary",
+    "statsDisplay": "DMG:0 DEF:22"
+  },
+  "currency": "jade",
+  "startPrice": {
+    "m": 1,
+    "e": 5
+  },
+  "currentBid": {
+    "m": 0,
+    "e": 0
+  },
+  "highestBidderId": "",
+  "bidCount": 0,
+  "startTime": 1779699915838,
+  "endTime": 1780304715838,
+  "status": "active",
+  "sellerCollected": false,
+  "winnerCollected": false,
+  "collectDeadline": 1780477515838
+}
