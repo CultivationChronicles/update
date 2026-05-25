@@ -1,27 +1,27 @@
 {
   "name": "Yang",
   "accountId": "dQdoKcUdkqOX",
-  "realmIndex": 4,
-  "stage": 1,
-  "score": 5392,
-  "age": 25.993830000000102,
+  "realmIndex": 5,
+  "stage": 2,
+  "score": 6838,
+  "age": 27.666035555555684,
   "isImmortal": false,
   "difficulty": "main_character",
-  "updatedAt": 1779694821639,
+  "updatedAt": 1779695122233,
   "gold": {
-    "mantissa": 2.24987,
+    "mantissa": 3.4148699999999996,
     "exponent": 3
   },
   "jade": {
-    "mantissa": 1.4136048158098786,
+    "mantissa": 5.026224353696582,
     "exponent": 4
   },
   "qiStones": {
-    "mantissa": 3.9,
+    "mantissa": 4.5,
     "exponent": 1
   },
   "qi": {
-    "mantissa": 1.9565865407104324,
+    "mantissa": 4.174067893150892,
     "exponent": 8
   }
 }
