@@ -2,26 +2,26 @@
   "name": "Crystal",
   "accountId": "otySjS0eZHYg",
   "realmIndex": 7,
-  "stage": 6,
-  "score": 380,
-  "age": 134.3672011111058,
+  "stage": 7,
+  "score": 385,
+  "age": 134.70055444443884,
   "isImmortal": false,
   "difficulty": "easy",
-  "updatedAt": 1779691872845,
+  "updatedAt": 1779692174255,
   "gold": {
-    "mantissa": 4.763968034918333,
+    "mantissa": 6.724979678691487,
     "exponent": 15
   },
   "jade": {
-    "mantissa": 7.447746255917351,
+    "mantissa": 7.969649937484123,
     "exponent": 5
   },
   "qiStones": {
-    "mantissa": 1.6475310073256404,
+    "mantissa": 1.8483745935772227,
     "exponent": 9
   },
   "qi": {
-    "mantissa": 1.180803180136215,
-    "exponent": 12
+    "mantissa": 3.591935966433812,
+    "exponent": 11
   }
 }
