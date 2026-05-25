@@ -2,26 +2,26 @@
   "name": "Xiao",
   "accountId": "1ErAWzS43ccd",
   "realmIndex": 4,
-  "stage": 3,
-  "score": 2200,
-  "age": 42.75324388888517,
+  "stage": 6,
+  "score": 2350,
+  "age": 43.25158555555172,
   "isImmortal": false,
   "difficulty": "hardcore",
-  "updatedAt": 1779702713142,
+  "updatedAt": 1779703013814,
   "gold": {
-    "mantissa": 8.86532176236998,
-    "exponent": 7
+    "mantissa": 1.2485737275942386,
+    "exponent": 8
   },
   "jade": {
-    "mantissa": 2.0583663079541314,
+    "mantissa": 2.114823656768218,
     "exponent": 5
   },
   "qiStones": {
-    "mantissa": 2.6964634128631415,
+    "mantissa": 2.957316471010214,
     "exponent": 5
   },
   "qi": {
-    "mantissa": 1.6027442235195248,
-    "exponent": 11
+    "mantissa": 7.937474107366159,
+    "exponent": 10
   }
 }
