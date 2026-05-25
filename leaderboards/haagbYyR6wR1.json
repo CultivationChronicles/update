@@ -1,0 +1,19 @@
+{
+  "name": "Yanyen",
+  "accountId": "haagbYyR6wR1",
+  "realmIndex": 0,
+  "stage": 5,
+  "score": 50,
+  "age": 18.277856666666537,
+  "isImmortal": false,
+  "difficulty": "normal",
+  "updatedAt": 1779687842434,
+  "gold": {
+    "mantissa": 1.1386294650782927,
+    "exponent": 3
+  },
+  "qi": {
+    "mantissa": 3.839966966097471,
+    "exponent": 3
+  }
+}
