@@ -1,0 +1,27 @@
+{
+  "name": "Elraqis",
+  "accountId": "dl4wCg5yHvIk",
+  "realmIndex": 6,
+  "stage": 8,
+  "score": 340,
+  "age": 246.35211888886334,
+  "isImmortal": false,
+  "difficulty": "easy",
+  "updatedAt": 1779692459835,
+  "gold": {
+    "mantissa": 2.6220860138402986,
+    "exponent": 7
+  },
+  "jade": {
+    "mantissa": 3.3133008529998973,
+    "exponent": 4
+  },
+  "qiStones": {
+    "mantissa": 4.146127024555117,
+    "exponent": 4
+  },
+  "qi": {
+    "mantissa": 1.0928121967119933,
+    "exponent": 11
+  }
+}
