@@ -1,0 +1,27 @@
+{
+  "name": "Boss",
+  "accountId": "AsW9oNzPpNr4",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 50,
+  "age": 18.42227055555548,
+  "isImmortal": false,
+  "difficulty": "hardcore",
+  "updatedAt": 1779686716431,
+  "gold": {
+    "mantissa": 9.9343025,
+    "exponent": 1
+  },
+  "jade": {
+    "mantissa": 5.40028,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 3.78125,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 5.407577959298363,
+    "exponent": 3
+  }
+}
