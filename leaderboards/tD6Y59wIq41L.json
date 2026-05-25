@@ -1,0 +1,27 @@
+{
+  "name": "Aljifath",
+  "accountId": "tD6Y59wIq41L",
+  "realmIndex": 16,
+  "stage": 1,
+  "score": 1610,
+  "age": 390.1159977776662,
+  "isImmortal": true,
+  "difficulty": "normal",
+  "updatedAt": 1779697154439,
+  "gold": {
+    "mantissa": 9.633444176257028,
+    "exponent": 47
+  },
+  "jade": {
+    "mantissa": 3.3190778409163086,
+    "exponent": 10
+  },
+  "qiStones": {
+    "mantissa": 8.025553679678001,
+    "exponent": 23
+  },
+  "qi": {
+    "mantissa": 7.77232813983643,
+    "exponent": 24
+  }
+}
