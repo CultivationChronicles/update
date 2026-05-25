@@ -15,11 +15,11 @@
     "e": 2
   },
   "currentBid": {
-    "m": 1.01,
+    "m": 5,
     "e": 2
   },
-  "highestBidderId": "6JGzq4BS9yHe",
-  "bidCount": 1,
+  "highestBidderId": "8miXvNv9GgKZ",
+  "bidCount": 2,
   "startTime": 1779690534590,
   "endTime": 1779776934590,
   "status": "active",
