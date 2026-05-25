@@ -1,0 +1,15 @@
+{
+  "name": "Qin",
+  "accountId": "LH5fnVwLkl2q",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 3,
+  "age": 18.0379,
+  "isImmortal": false,
+  "difficulty": "main_character",
+  "updatedAt": 1779698696796,
+  "qi": {
+    "mantissa": 1.4593425243311606,
+    "exponent": 2
+  }
+}
