@@ -2,26 +2,26 @@
   "name": "Curst",
   "accountId": "wxDHM1ch0oXS",
   "realmIndex": 7,
-  "stage": 1,
-  "score": 710,
-  "age": 146.9138266666661,
+  "stage": 2,
+  "score": 720,
+  "age": 147.24716111110862,
   "isImmortal": false,
   "difficulty": "normal",
-  "updatedAt": 1779699113841,
+  "updatedAt": 1779699414641,
   "gold": {
-    "mantissa": 2.8373371633628497,
+    "mantissa": 3.030000803240308,
     "exponent": 8
   },
   "jade": {
-    "mantissa": 6.535399999999997,
+    "mantissa": 6.548899999999998,
     "exponent": 4
   },
   "qiStones": {
-    "mantissa": 2.2101571247254816,
+    "mantissa": 2.2789508011950566,
     "exponent": 5
   },
   "qi": {
-    "mantissa": 1.2445172821189698,
-    "exponent": 12
+    "mantissa": 1.6902910201555266,
+    "exponent": 11
   }
 }
