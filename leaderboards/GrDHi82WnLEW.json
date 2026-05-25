@@ -2,26 +2,26 @@
   "name": "Lentija",
   "accountId": "GrDHi82WnLEW",
   "realmIndex": 0,
-  "stage": 8,
-  "score": 400,
-  "age": 20.508333333332573,
+  "stage": 12,
+  "score": 600,
+  "age": 21.008333333332445,
   "isImmortal": false,
   "difficulty": "hardcore",
-  "updatedAt": 1779698379276,
+  "updatedAt": 1779698679277,
   "gold": {
-    "mantissa": 2.1125007812664425,
+    "mantissa": 9.823799682910309,
     "exponent": 4
   },
   "jade": {
-    "mantissa": 1.9,
+    "mantissa": 3.8,
     "exponent": 1
   },
   "qiStones": {
-    "mantissa": 4.145031249999999,
-    "exponent": 2
+    "mantissa": 1.4565031250000002,
+    "exponent": 3
   },
   "qi": {
-    "mantissa": 1.6047483152197843,
+    "mantissa": 2.1357141055814406,
     "exponent": 4
   }
 }
