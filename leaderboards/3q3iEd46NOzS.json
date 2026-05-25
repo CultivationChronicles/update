@@ -1,27 +1,27 @@
 {
   "name": "Tim",
   "accountId": "3q3iEd46NOzS",
-  "realmIndex": 3,
-  "stage": 1,
-  "score": 78,
-  "age": 20.1445477777779,
+  "realmIndex": 4,
+  "stage": 8,
+  "score": 120,
+  "age": 20.47899444444458,
   "isImmortal": false,
   "difficulty": "main_character",
-  "updatedAt": 1779688196392,
+  "updatedAt": 1779688497312,
   "gold": {
-    "mantissa": 3.9439649416701337,
+    "mantissa": 7.53766284884625,
     "exponent": 4
   },
   "jade": {
-    "mantissa": 9.622480760000784,
-    "exponent": 2
+    "mantissa": 1.814722891027017,
+    "exponent": 4
   },
   "qiStones": {
-    "mantissa": 4.744284286876272,
-    "exponent": 2
+    "mantissa": 1.230070359617562,
+    "exponent": 3
   },
   "qi": {
-    "mantissa": 5.145013531640919,
+    "mantissa": 1.4168083954861386,
     "exponent": 8
   }
 }
