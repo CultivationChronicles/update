@@ -1,0 +1,27 @@
+{
+  "name": "AJ",
+  "accountId": "V0A6FY2FDOBS",
+  "realmIndex": 13,
+  "stage": 9,
+  "score": 353,
+  "age": 1028.6693922219454,
+  "isImmortal": true,
+  "difficulty": "main_character",
+  "updatedAt": 1779700060000,
+  "gold": {
+    "mantissa": 6.908284588142007,
+    "exponent": 24
+  },
+  "jade": {
+    "mantissa": 5.591769665900838,
+    "exponent": 6
+  },
+  "qiStones": {
+    "mantissa": 4.43120116390766,
+    "exponent": 12
+  },
+  "qi": {
+    "mantissa": 1.3947181144344092,
+    "exponent": 20
+  }
+}
