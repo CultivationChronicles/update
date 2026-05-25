@@ -15,11 +15,11 @@
     "e": 8
   },
   "currentBid": {
-    "m": 0,
-    "e": 0
+    "m": 2,
+    "e": 8
   },
-  "highestBidderId": "",
-  "bidCount": 0,
+  "highestBidderId": "QpcC15hPD5xb",
+  "bidCount": 1,
   "startTime": 1779684054001,
   "endTime": 1779770454001,
   "status": "active",
