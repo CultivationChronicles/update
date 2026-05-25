@@ -1,27 +1,27 @@
 {
   "name": "Qu",
   "accountId": "0YuiFVYaPr6Z",
-  "realmIndex": 1,
+  "realmIndex": 2,
   "stage": 12,
-  "score": 55,
-  "age": 23.405462777779857,
+  "score": 80,
+  "age": 23.489074444446533,
   "isImmortal": false,
   "difficulty": "main_character",
-  "updatedAt": 1779688892434,
+  "updatedAt": 1779689192911,
   "gold": {
-    "mantissa": 5.969365726833952,
+    "mantissa": 7.199006036299739,
     "exponent": 7
   },
   "jade": {
-    "mantissa": 1.5930955349989215,
-    "exponent": 3
+    "mantissa": 1.2818016494498885,
+    "exponent": 4
   },
   "qiStones": {
-    "mantissa": 1.4659820274518274,
+    "mantissa": 1.5616935227916424,
     "exponent": 4
   },
   "qi": {
-    "mantissa": 6.106845005165733,
+    "mantissa": 3.7760233117139177,
     "exponent": 12
   }
 }
