@@ -1,0 +1,27 @@
+{
+  "name": "Kezaru",
+  "accountId": "DbKZ3UAJzsAU",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 250,
+  "age": 19.803322222222288,
+  "isImmortal": false,
+  "difficulty": "abyssal",
+  "updatedAt": 1779694627946,
+  "gold": {
+    "mantissa": 6.2930375,
+    "exponent": 2
+  },
+  "jade": {
+    "mantissa": 1,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 3.78125,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 2.1050377448330164,
+    "exponent": 5
+  }
+}
