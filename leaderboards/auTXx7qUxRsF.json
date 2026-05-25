@@ -1,0 +1,27 @@
+{
+  "name": "Senkun",
+  "accountId": "auTXx7qUxRsF",
+  "realmIndex": 15,
+  "stage": 1,
+  "score": 37750,
+  "age": 553.455702222242,
+  "isImmortal": true,
+  "difficulty": "abyssal",
+  "updatedAt": 1779685928122,
+  "gold": {
+    "mantissa": 2.0356365652160315,
+    "exponent": 30
+  },
+  "jade": {
+    "mantissa": 4.404165959031934,
+    "exponent": 8
+  },
+  "qiStones": {
+    "mantissa": 6.414849085068129,
+    "exponent": 11
+  },
+  "qi": {
+    "mantissa": 1.108982226847322,
+    "exponent": 21
+  }
+}
