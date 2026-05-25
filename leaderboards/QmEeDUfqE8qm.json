@@ -2,26 +2,26 @@
   "name": "Trip",
   "accountId": "QmEeDUfqE8qm",
   "realmIndex": 7,
-  "stage": 5,
-  "score": 750,
-  "age": 93.75760666666818,
+  "stage": 6,
+  "score": 760,
+  "age": 94.09094333333499,
   "isImmortal": false,
   "difficulty": "normal",
-  "updatedAt": 1779692902584,
+  "updatedAt": 1779693202728,
   "gold": {
-    "mantissa": 4.839472294145716,
+    "mantissa": 5.880995481573108,
     "exponent": 20
   },
   "jade": {
-    "mantissa": 2.29533721298707,
+    "mantissa": 2.9792172129870704,
     "exponent": 5
   },
   "qiStones": {
-    "mantissa": 3.8524751218878275,
+    "mantissa": 4.052089401192587,
     "exponent": 9
   },
   "qi": {
-    "mantissa": 2.1178261687053457,
-    "exponent": 12
+    "mantissa": 5.835769889225539,
+    "exponent": 11
   }
 }
