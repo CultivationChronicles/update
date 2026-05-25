@@ -2,26 +2,26 @@
   "name": "Delo",
   "accountId": "RH3mRNJDvmJL",
   "realmIndex": 0,
-  "stage": 5,
-  "score": 25,
-  "age": 18.56681777777777,
+  "stage": 6,
+  "score": 30,
+  "age": 19.022266666666667,
   "isImmortal": false,
   "difficulty": "easy",
-  "updatedAt": 1779690272018,
+  "updatedAt": 1779690687510,
   "gold": {
-    "mantissa": 5,
-    "exponent": 1
+    "mantissa": 1.7846,
+    "exponent": 3
   },
   "jade": {
-    "mantissa": 1,
+    "mantissa": 1.1,
     "exponent": 1
   },
   "qiStones": {
-    "mantissa": 2.5,
+    "mantissa": 2.9,
     "exponent": 1
   },
   "qi": {
-    "mantissa": 9.311443071793263,
+    "mantissa": 6.193051621984937,
     "exponent": 2
   }
 }
