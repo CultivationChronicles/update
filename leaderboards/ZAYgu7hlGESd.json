@@ -1,0 +1,27 @@
+{
+  "name": "Chan",
+  "accountId": "ZAYgu7hlGESd",
+  "realmIndex": 20,
+  "stage": 2,
+  "score": 10100,
+  "age": 1718.7451233348613,
+  "isImmortal": true,
+  "difficulty": "hardcore",
+  "updatedAt": 1779697140313,
+  "gold": {
+    "mantissa": 1.7573286338687026,
+    "exponent": 105
+  },
+  "jade": {
+    "mantissa": 1.0389724160357257,
+    "exponent": 10
+  },
+  "qiStones": {
+    "mantissa": 2.259363212435724,
+    "exponent": 48
+  },
+  "qi": {
+    "mantissa": 3.8734890522881282,
+    "exponent": 27
+  }
+}
