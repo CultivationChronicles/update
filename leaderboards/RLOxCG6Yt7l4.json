@@ -1,0 +1,27 @@
+{
+  "name": "GuJu",
+  "accountId": "RLOxCG6Yt7l4",
+  "realmIndex": 499,
+  "stage": 17517,
+  "score": 5642500,
+  "age": 38192.528782169335,
+  "isImmortal": true,
+  "difficulty": "abyssal",
+  "updatedAt": 1779700906420,
+  "gold": {
+    "mantissa": 3.6942481591022585,
+    "exponent": 311
+  },
+  "jade": {
+    "mantissa": 7.597824274390254,
+    "exponent": 73
+  },
+  "qiStones": {
+    "mantissa": 2.3656251307425715,
+    "exponent": 123
+  },
+  "qi": {
+    "mantissa": 3.9904703938000647,
+    "exponent": 1508
+  }
+}
