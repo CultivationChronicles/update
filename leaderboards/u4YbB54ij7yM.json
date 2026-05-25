@@ -1,27 +1,27 @@
 {
   "name": "Wuk",
   "accountId": "u4YbB54ij7yM",
-  "realmIndex": 3,
+  "realmIndex": 4,
   "stage": 1,
-  "score": 78,
-  "age": 19.15132305555566,
+  "score": 103,
+  "age": 19.234378888889054,
   "isImmortal": false,
   "difficulty": "main_character",
-  "updatedAt": 1779696119736,
+  "updatedAt": 1779696419643,
   "gold": {
-    "mantissa": 6.606861449285025,
+    "mantissa": 8.947720640374902,
     "exponent": 6
   },
   "jade": {
-    "mantissa": 4.872632352442551,
+    "mantissa": 4.872732352442551,
     "exponent": 4
   },
   "qiStones": {
-    "mantissa": 3.1790076649428953,
+    "mantissa": 3.6379940727613898,
     "exponent": 5
   },
   "qi": {
-    "mantissa": 8.29003728218666,
-    "exponent": 9
+    "mantissa": 1.1772241160549304,
+    "exponent": 10
   }
 }
