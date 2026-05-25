@@ -1,0 +1,27 @@
+{
+  "name": "SirDave",
+  "accountId": "oMqtjUTKU3WR",
+  "realmIndex": 14,
+  "stage": 4,
+  "score": 720,
+  "age": 670.5594433332334,
+  "isImmortal": false,
+  "difficulty": "easy",
+  "updatedAt": 1779693994000,
+  "gold": {
+    "mantissa": 2.7999247286550335,
+    "exponent": 34
+  },
+  "jade": {
+    "mantissa": 3.2782539940010933,
+    "exponent": 7
+  },
+  "qiStones": {
+    "mantissa": 2.647095490649817,
+    "exponent": 15
+  },
+  "qi": {
+    "mantissa": 4.22412342594389,
+    "exponent": 20
+  }
+}
