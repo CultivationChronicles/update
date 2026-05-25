@@ -1,0 +1,27 @@
+{
+  "name": "Zetian",
+  "accountId": "QpcC15hPD5xb",
+  "realmIndex": 11,
+  "stage": 12,
+  "score": 305,
+  "age": 80.4043669444437,
+  "isImmortal": true,
+  "difficulty": "main_character",
+  "updatedAt": 1779691041654,
+  "gold": {
+    "mantissa": 7.970934234792137,
+    "exponent": 35
+  },
+  "jade": {
+    "mantissa": 4.330285724594309,
+    "exponent": 9
+  },
+  "qiStones": {
+    "mantissa": 1.240374916915145,
+    "exponent": 24
+  },
+  "qi": {
+    "mantissa": 1.9297975942033474,
+    "exponent": 19
+  }
+}
