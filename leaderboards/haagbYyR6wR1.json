@@ -1,27 +1,27 @@
 {
   "name": "Yanyen",
   "accountId": "haagbYyR6wR1",
-  "realmIndex": 2,
-  "stage": 1,
-  "score": 210,
-  "age": 22.022622222220985,
+  "realmIndex": 1,
+  "stage": 3,
+  "score": 130,
+  "age": 21.78433666666628,
   "isImmortal": false,
   "difficulty": "normal",
-  "updatedAt": 1779691020508,
+  "updatedAt": 1779691202719,
   "gold": {
-    "mantissa": 1.269525437918298,
-    "exponent": 5
+    "mantissa": 8.028917813095209,
+    "exponent": 4
   },
   "jade": {
-    "mantissa": 9.945384174999989,
-    "exponent": 2
+    "mantissa": 1.4,
+    "exponent": 1
   },
   "qiStones": {
-    "mantissa": 8.378093694666308,
+    "mantissa": 2.0057708141025437,
     "exponent": 2
   },
   "qi": {
-    "mantissa": 3.1882287005511207,
-    "exponent": 5
+    "mantissa": 1.9284650563619627,
+    "exponent": 6
   }
 }
