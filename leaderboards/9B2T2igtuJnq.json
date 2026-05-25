@@ -1,1 +1,27 @@
-CCv4:VEUkMQhabHRTLiIWGiI+Ax86PTJdeHt1HDY1PF49KSwRGzEaBFFSdFE2GzwVQAAsXzEmDkt8YFhVUjYrGz4qBF8xJjZJeHt1XC01P1k9EAUcLhg1R3BwXAktIj5fNSksXB8xGQNnbHdUNgs/Wh8HLxwfHxhYdwpaHwsmFhoyBAMACxsYWH9gYxBeJhY7GAQCAA8mMUl3UnYMNg8QA0FhAx4QLQ1YRUF3HSI1P1wxFywRKTEaS39sdB0uCz5aGzkoATZGNEFgVlsNVgw7WAQ5KAUqIg5AeHt1XC0bP1k9EAUcLhg1R3BwXAktIj4VHwcsWxMhGAF/bHdRDDU8GDE5Lxw9HxhYdwpaHwsmFhoyBAMACxsYWGN/WxMDDDscFwcvWyEPGklrfHRWDBs8XDE5LgApLQZaZH9dDTUmEV4+EC0ADyIORXgLWxAtCD0GHxsFGi5GDkFoVWMVNQw7HCEEBRAqGxhYRW9gVS1SEBtFBDITFBgeQn9CdFQ2NTxeIQcvEzkxGARZUnVXMgs/WT0AOwc+GB5Cc1J0HCILPQYhPgIfNkc0WEVRdB0ICzsDEAQ4WTYbHkJ3bHRTLiIXAyY+AyNJMjVZZFVaDBAIOxdBPjJYKkYNQXh8bxwuND0GGzkoAhQwM0RkC1sPKTYrBgM6KBwUMjVIZG9tDAgLOwNFBDgcMgwy
+{
+  "name": "Merlin",
+  "accountId": "9B2T2igtuJnq",
+  "realmIndex": 11,
+  "stage": 10,
+  "score": 1200,
+  "age": 257.9655277776896,
+  "isImmortal": true,
+  "difficulty": "normal",
+  "updatedAt": 1779706340301,
+  "gold": {
+    "mantissa": 8.247462129391987,
+    "exponent": 30
+  },
+  "jade": {
+    "mantissa": 2.67722665604704,
+    "exponent": 9
+  },
+  "qiStones": {
+    "mantissa": 6.994420683017995,
+    "exponent": 12
+  },
+  "qi": {
+    "mantissa": 4.185074006703515,
+    "exponent": 18
+  }
+}
