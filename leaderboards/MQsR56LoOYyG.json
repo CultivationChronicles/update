@@ -1,0 +1,19 @@
+{
+  "name": "Jordan",
+  "accountId": "MQsR56LoOYyG",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 5,
+  "age": 18.215081111111,
+  "isImmortal": false,
+  "difficulty": "easy",
+  "updatedAt": 1779696649469,
+  "gold": {
+    "mantissa": 1.8092060547517481,
+    "exponent": 1
+  },
+  "qi": {
+    "mantissa": 1.0620161068545122,
+    "exponent": 4
+  }
+}
