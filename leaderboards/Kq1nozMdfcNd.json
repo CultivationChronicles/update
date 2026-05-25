@@ -1,0 +1,27 @@
+{
+  "name": "WangLin",
+  "accountId": "Kq1nozMdfcNd",
+  "realmIndex": 4,
+  "stage": 1,
+  "score": 1260,
+  "age": 665.5990266666704,
+  "isImmortal": false,
+  "difficulty": "hard",
+  "updatedAt": 1779689557781,
+  "gold": {
+    "mantissa": 8.19744319722116,
+    "exponent": 22
+  },
+  "jade": {
+    "mantissa": 3.1714551470037105,
+    "exponent": 4
+  },
+  "qiStones": {
+    "mantissa": 7.473862590342614,
+    "exponent": 7
+  },
+  "qi": {
+    "mantissa": 8.066126682290868,
+    "exponent": 16
+  }
+}
