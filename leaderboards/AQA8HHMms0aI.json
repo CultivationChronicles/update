@@ -1,0 +1,27 @@
+{
+  "name": "asdftest",
+  "accountId": "AQA8HHMms0aI",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 500,
+  "age": 30,
+  "isImmortal": false,
+  "difficulty": "abyssal",
+  "updatedAt": 1779689044988,
+  "gold": {
+    "mantissa": 7.7,
+    "exponent": 1
+  },
+  "jade": {
+    "mantissa": 1,
+    "exponent": 0
+  },
+  "qiStones": {
+    "mantissa": 1,
+    "exponent": 0
+  },
+  "qi": {
+    "mantissa": 7.26396463802559,
+    "exponent": 4
+  }
+}
