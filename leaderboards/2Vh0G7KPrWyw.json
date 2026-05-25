@@ -1,0 +1,27 @@
+{
+  "name": "Shiu",
+  "accountId": "2Vh0G7KPrWyw",
+  "realmIndex": 9,
+  "stage": 12,
+  "score": 520,
+  "age": 45.3587977777949,
+  "isImmortal": false,
+  "difficulty": "easy",
+  "updatedAt": 1779688183318,
+  "gold": {
+    "mantissa": 3.458761953063523,
+    "exponent": 18
+  },
+  "jade": {
+    "mantissa": 2.657163330453607,
+    "exponent": 5
+  },
+  "qiStones": {
+    "mantissa": 7.873463973043389,
+    "exponent": 10
+  },
+  "qi": {
+    "mantissa": 1.0345097585884218,
+    "exponent": 15
+  }
+}
