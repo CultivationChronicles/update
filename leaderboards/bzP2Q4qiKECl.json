@@ -2,26 +2,26 @@
   "name": "Jiyan",
   "accountId": "bzP2Q4qiKECl",
   "realmIndex": 4,
-  "stage": 2,
-  "score": 105,
-  "age": 19.787132500001828,
+  "stage": 5,
+  "score": 113,
+  "age": 19.870467222224132,
   "isImmortal": false,
   "difficulty": "main_character",
-  "updatedAt": 1779700016271,
+  "updatedAt": 1779700316276,
   "gold": {
-    "mantissa": 1.2745256601770214,
+    "mantissa": 1.8336615192798578,
     "exponent": 7
   },
   "jade": {
-    "mantissa": 1.230175302852942,
+    "mantissa": 1.4795568124519851,
     "exponent": 5
   },
   "qiStones": {
-    "mantissa": 3.0092986610048733,
+    "mantissa": 3.7616567429139405,
     "exponent": 4
   },
   "qi": {
-    "mantissa": 2.5515458120724963,
+    "mantissa": 3.951035889176263,
     "exponent": 8
   }
 }
