@@ -1,1 +1,27 @@
-{"name":"Yi","accountId":"w6c9UyJK1M32","realmIndex":7,"stage":2,"score":720,"age":62.51118333333295,"isImmortal":false,"difficulty":"normal","updatedAt":1779753520799,"gold":{"mantissa":6.159093964364722,"exponent":8},"jade":{"mantissa":2.198755540913774,"exponent":5},"qiStones":{"mantissa":1.4865271851446196,"exponent":6},"qi":{"mantissa":1.2784421747926644,"exponent":13}}
+{
+  "name": "Yi",
+  "accountId": "w6c9UyJK1M32",
+  "realmIndex": 7,
+  "stage": 2,
+  "score": 720,
+  "age": 63.12264444444377,
+  "isImmortal": false,
+  "difficulty": "normal",
+  "updatedAt": 1779754579030,
+  "gold": {
+    "mantissa": 8.943129629487764,
+    "exponent": 8
+  },
+  "jade": {
+    "mantissa": 1.820877054624815,
+    "exponent": 5
+  },
+  "qiStones": {
+    "mantissa": 1.598630592242353,
+    "exponent": 6
+  },
+  "qi": {
+    "mantissa": 2.3707921244593884,
+    "exponent": 12
+  }
+}
