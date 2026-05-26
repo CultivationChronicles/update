@@ -4,24 +4,24 @@
   "realmIndex": 11,
   "stage": 3,
   "score": 5650,
-  "age": 111.93861111108295,
+  "age": 112.06360777774954,
   "isImmortal": false,
   "difficulty": "hardcore",
-  "updatedAt": 1779784575835,
+  "updatedAt": 1779784651002,
   "gold": {
-    "mantissa": 9.780250748537512,
-    "exponent": 24
+    "mantissa": 1.0204384875864994,
+    "exponent": 25
   },
   "jade": {
-    "mantissa": 4.94487724279086,
+    "mantissa": 4.996691375941807,
     "exponent": 6
   },
   "qiStones": {
-    "mantissa": 7.0270981085503905,
+    "mantissa": 7.039044491485336,
     "exponent": 11
   },
   "qi": {
-    "mantissa": 5.259642190555967,
+    "mantissa": 5.753437441297064,
     "exponent": 17
   }
 }
