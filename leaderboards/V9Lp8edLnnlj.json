@@ -1,0 +1,27 @@
+{
+  "name": "Dama",
+  "accountId": "V9Lp8edLnnlj",
+  "realmIndex": 0,
+  "stage": 1,
+  "score": 7,
+  "age": 42.15686388888893,
+  "isImmortal": false,
+  "difficulty": "main_character",
+  "updatedAt": 1779770509824,
+  "gold": {
+    "mantissa": 2.5,
+    "exponent": 2
+  },
+  "jade": {
+    "mantissa": 1,
+    "exponent": 1
+  },
+  "qiStones": {
+    "mantissa": 2.2904999999999998,
+    "exponent": 2
+  },
+  "qi": {
+    "mantissa": 8.96867703648917,
+    "exponent": 4
+  }
+}
