@@ -2,26 +2,26 @@
   "name": "Yi",
   "accountId": "w6c9UyJK1M32",
   "realmIndex": 7,
-  "stage": 9,
-  "score": 790,
-  "age": 69.87187888888839,
+  "stage": 12,
+  "score": 820,
+  "age": 70.2062777777773,
   "isImmortal": false,
   "difficulty": "normal",
-  "updatedAt": 1779760616202,
+  "updatedAt": 1779760917080,
   "gold": {
-    "mantissa": 1.5855869976989618,
+    "mantissa": 1.9838521635409572,
     "exponent": 11
   },
   "jade": {
-    "mantissa": 1.2604128786156357,
+    "mantissa": 1.2786913880617867,
     "exponent": 6
   },
   "qiStones": {
-    "mantissa": 9.318375181880292,
+    "mantissa": 9.78902653441447,
     "exponent": 6
   },
   "qi": {
-    "mantissa": 4.440271692376449,
+    "mantissa": 1.1999439293443965,
     "exponent": 12
   }
 }
