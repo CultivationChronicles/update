@@ -1,0 +1,33 @@
+{
+  "id": "auc_mprhypna_m13yi",
+  "sellerId": "Ws5zFVCW9C9w",
+  "item": {
+    "type": "equipment",
+    "instanceId": "lb_e_1780091098446_9i6utuv35te",
+    "equipInstance": {
+      "instanceId": "lb_e_1780091098446_9i6utuv35te",
+      "templateId": "mht2_world_shell"
+    },
+    "name": "World-Shell Robe",
+    "icon": "fa-shirt",
+    "rarity": "mythical",
+    "statsDisplay": "DMG:0 DEF:180"
+  },
+  "currency": "jade",
+  "startPrice": {
+    "m": 5,
+    "e": 6
+  },
+  "currentBid": {
+    "m": 0,
+    "e": 0
+  },
+  "highestBidderId": "",
+  "bidCount": 0,
+  "startTime": 1780093929002,
+  "endTime": 1780698729002,
+  "status": "active",
+  "sellerCollected": false,
+  "winnerCollected": false,
+  "collectDeadline": 1780871529002
+}
