@@ -2,26 +2,26 @@
   "name": "Samuel",
   "accountId": "Ws5zFVCW9C9w",
   "realmIndex": 12,
-  "stage": 2,
-  "score": 1220,
-  "age": 344.5392477778244,
+  "stage": 4,
+  "score": 1240,
+  "age": 344.8725766667145,
   "isImmortal": true,
   "difficulty": "normal",
-  "updatedAt": 1780118674848,
+  "updatedAt": 1780118975069,
   "gold": {
-    "mantissa": 2.2332669879274616,
+    "mantissa": 2.6242314912085223,
     "exponent": 22
   },
   "jade": {
-    "mantissa": 1.9608092346751766,
+    "mantissa": 1.9753805389301273,
     "exponent": 8
   },
   "qiStones": {
-    "mantissa": 8.799324566841543,
+    "mantissa": 8.967925815247982,
     "exponent": 9
   },
   "qi": {
-    "mantissa": 1.2685622432676027,
-    "exponent": 19
+    "mantissa": 8.046222570321458,
+    "exponent": 18
   }
 }
